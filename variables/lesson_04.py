@@ -68,14 +68,12 @@
 # print(abs(y))
 
 # Task 11
-students= int(input("Enter the number of students: "))
-apples= int(input("Enter the number of apples: "))
-apples_per_student = apples//students
-apples_left = apples%students
-print (apples_per_student)
-print (apples_left)
-
-
+# students= int(input("Enter the number of students: "))
+# apples= int(input("Enter the number of apples: "))
+# apples_per_student = apples//students
+# apples_left = apples%students
+# print (apples_per_student)
+# print (apples_left)
 
 
 # python variables/lesson_04.py
